@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\bin\Debug\net7.0\Datetime-hazırmetot.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\bin\Debug\net7.0\Datetime-hazırmetot.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\bin\Debug\net7.0\Datetime-hazırmetot.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\bin\Debug\net7.0\Datetime-hazırmetot.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\bin\Debug\net7.0\Datetime-hazırmetot.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\refint\Datetime-hazırmetot.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\Datetime-hazırmetot.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Datetime-hazırmetot\obj\Debug\net7.0\ref\Datetime-hazırmetot.dll
